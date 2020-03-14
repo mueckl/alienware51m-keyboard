@@ -1,7 +1,7 @@
 # alienware51m-keyboard
-Alienware 51m / keyboard special keys
+Alienware 51m / keyboard special keys under linux
 
-make special keys accessable under Ubuntu 
+make special keys accessable under Ubuntu Linux 
 (tested on Version 19.10)
 
 ## Installation
